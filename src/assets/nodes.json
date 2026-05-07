@@ -1,0 +1,20 @@
+{
+	"移动":{
+		"咪咕快游":"https://gcache.migu.cn/prod/upload/game_resource/small_screen2/202508/2700/34/20230323103300677.mp4",
+		"移动云手机":"https://cloud.139.com/cloudimage/app/30639/com.chinamobile.hycloudphone_6.2.0.20260206_20260206192457_signed_CHANNEL_SRC.apk",
+		"移动云盘":"https://yun.mcloud.139.com/mCloud/mCloud_12.6.0_30126032_000.apk",
+		"咪咕悦看":"https://cdn3.cmread.com/content/cover/d6/ae/enhancement/5e/69/600000360166/20260501/0-0100018537.png",
+		"咪咕视频":"https://img.cmvideo.cn/sports/uploadImages/2025/1/9/16000005943210482e59.png",
+		"咪咕音乐":"https://d.musicapp.migu.cn/data/oss/service98/00/1w/ok/245941411cb64343a2a21c7fad49603f.png"
+	},
+	"电信":{
+		"天翼云桌面":"https://desk.ctyun.cn:8999/desktop-prod/software/windows_tob_client/15/64/202030001/CtyunClouddeskUniversal_2.3.0_202030001_x86_20240327104015_Setup.exe"
+	},
+	"全球[Global]":{
+		"Cachefly":"https://web1.cachefly.net/speedtest/downloading",
+		"Cloudflare Speed":"https://speed.cloudflare.com/__down?bytes=99614720",
+		"Steam Akamai":"https://cdn.akamai.steamstatic.com/steam/apps/1063730/extras/NW_Sword_Sorcery_2.gif",
+		"Steam Cloudflare":"https://cdn.cloudflare.steamstatic.com/steam/apps/1063730/extras/NW_Sword_Sorcery_2.gif",
+		"Microsoft Akamai":"https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW16Ptm"
+	}
+}
